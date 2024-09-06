@@ -22,7 +22,7 @@ Welcome to the Table Data Management project! This is a simple and interactive f
 ![Home Page](https://github.com/vandanasingh5/TableData/blob/main/Screenshot%202024-09-06%20225533.png)
 
 ### Edit Page
-![Profile Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
+![Edit Page](https://github.com/vandanasingh5/TableData/blob/main/Screenshot%202024-09-06%20225611.png)
 
 ## Technologies Used
 
