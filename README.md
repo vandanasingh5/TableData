@@ -36,4 +36,4 @@ https://drive.google.com/file/d/1V6Qikv1TTZorLlqSQTRJQtGfZxNil6S1/view?usp=drive
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vandanasingh5/TableData].git
+   git clone https://github.com/vandanasingh5/TableData.git
