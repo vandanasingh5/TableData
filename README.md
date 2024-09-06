@@ -2,7 +2,7 @@
 
 Welcome to the Table Data Management project! This is a simple and interactive frontend web application built using HTML, CSS, JavaScript, and React.js. The application allows users to manage a table by editing or removing rows dynamically.
 
-(https://github.com/vandanasingh5/TableData/blob/main/Screenshot%202024-09-06%20225533.png)
+![Home Page](https://github.com/vandanasingh5/TableData/blob/main/Screenshot%202024-09-06%20225533.png)
 
 ## Features
 
