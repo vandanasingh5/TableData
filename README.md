@@ -6,54 +6,31 @@ https://drive.google.com/file/d/1V6Qikv1TTZorLlqSQTRJQtGfZxNil6S1/view?usp=drive
 
 ## Features
 
-- **User Authentication:**
-  - Sign up and sign in with JWT token-based authentication.
+- **Data Editing:**
+  - Edit individual rows of the table easily.
   
-- **Posts:**
-  - Upload a new post with image ,title and description.
-  - Delete an existing post.
-  
-- **Interactions:**
-  - Comment on posts.
-  - Like and unlike posts.
-  
-- **Profile:**
-  - View your profile with your posts, followers, and following lists.
-  - Check profiles of other users.
-  
-- **Followers:**
-  - Follow and unfollow users.
-  - Check followers and following lists.
-
+- **Data Removal:**
+  - Remove unwanted rows with a single click.
+    
+- **Dynamic and Responsive:**
+  - The table dynamically updates based on user actions.
+  - Fully responsive design for optimal experience on all devices.
+    
 ## Screenshots
 
 ### Home Page
 ![Home Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
-### Profile Page
+### Edit Page
 ![Profile Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
-
-### Post Page
-![Post Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
-
-### Followers Page
-![Followers Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/followers.jpeg)
 
 ## Technologies Used
 
 - **Frontend:**
-  - React.js
-  - Tailwind CSS
-  
-- **Backend:**
-  - Node.js
-  - Express.js
-  
-- **Database:**
-  - MongoDB
-  
-- **Authentication:**
-  - JSON Web Tokens (JWT)
+  - Html
+  - CSS
+  - Javascript
+  - React
 
 ## Installation
 
