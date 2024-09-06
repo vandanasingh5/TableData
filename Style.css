@@ -1,0 +1,71 @@
+/* Basic styling for the page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center; /* Center the content inside the body */
+  }
+  
+  /* Styling for the heading */
+  h1 {
+    background-color: orange;  /* Set orange background */
+    color: white;              /* Set text color to white */
+    padding: 20px;             /* Add padding for some space inside */
+    border-radius: 15px;       /* Round the corners */
+    display: inline-block;     /* This makes the h1 behave like a block element, but shrink to fit its content */
+    text-align: center;        /* Center the text inside the h1 */
+    margin: 20px auto;         /* Center the h1 horizontally with automatic left/right margins */
+    font-size: 2rem;           /* Increase font size */
+  }
+  
+  /* Styling for the table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for table headers and cells */
+  th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  /* Style for the table header */
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  /* Style for editable input fields */
+  td input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  /* Button styling */
+  .edit-btn {
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: blue;
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  
+  /* Save button style */
+  .save-btn {
+    color: green;
+  }
+  
+  /* Cancel button style */
+  .cancel-btn {
+    color: red;
+  }
+  
+  /* Button container to align buttons */
+  .action-btns {
+    display: flex;
+    justify-content: space-around;
+  }
+  
